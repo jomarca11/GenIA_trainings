@@ -1,0 +1,10 @@
+bs4
+html5lib
+lxml
+langgraph
+langchain
+langchain-community
+langchain-text-splitters
+langchain-google-genai
+tiktoken
+chromadb
